@@ -1,0 +1,8 @@
+com/example/healway/databinding/MainFragmentBinding.java
+ com.example.healway.databinding.MainFragmentBinding
+com/example/healway/BuildConfig.java
+ com.example.healway.BuildConfig
+com/example/healway/databinding/ActivityLoginBinding.java
+ com.example.healway.databinding.ActivityLoginBinding
+com/example/healway/databinding/MenuActivityActivityBinding.java
+ com.example.healway.databinding.MenuActivityActivityBinding
