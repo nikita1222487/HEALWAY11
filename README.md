@@ -1,5 +1,5 @@
 # APP-DEV-CONTEST
-App name:HEAL your WAY:
+App name:HEAL WAY:
 1.Problem Statement:
 Living healthy is not an option anymore,it is the need of the hour.Last year with the surge in Covid-19 cases , India’s healthcare infrastructure was collapsing. Technology has become an inevitable part of our daily lives,so why can’t we use the same for making the society more healthier.Generally ,people in India do not go to doctors unless they are severely ill and the diet is not sufficient enough to provide all the necessary supplements to the body.So we can use mobile applications for the day-to-day medical care that our body needs ,Mobile applications are easily accessible  In the modern times ,your mobile is always with you,so let it take care of you. 
 
@@ -17,6 +17,7 @@ d)timetable/task list
 
 
 
+![loginactivity](https://user-images.githubusercontent.com/63710982/148808356-3ed57c52-a4b3-4fe8-b5a8-6c90bcc89e61.jpeg)
 
 4.Application Link & Future Scope:
 Github link:
