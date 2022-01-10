@@ -8,12 +8,14 @@ Living healthy is not an option anymore,it is the need of the hour.Last year wit
 This project proposes a “Health and Wellness Platform” for every age group.The health profile generated will tell your BMI in one click. It will provide the information of supplements your body requires  according to the minor health issues you face and a recommended diet which fits your Indian lifestyle and local culture.Maintain your healthy life with the timetable feature ,where you can set the timer for every activity.To keep a stress free mind ,we will add a relax section where the user can listen to peaceful music.In case of emergency,the app can help you get the ambulance of the nearest hospital.The project’s scope is to make it interactive for the rural part of india and adding a section specifically for children of age 1-5,pregnant and new mothers.The ultimate goal is to make India Healthy for a Healthy Future.
 ![loginactivity](https://user-images.githubusercontent.com/63710982/148808356-3ed57c52-a4b3-4fe8-b5a8-6c90bcc89e61.jpeg)
 ![Screenshot (175)](https://user-images.githubusercontent.com/63710982/148819674-df73fc74-f4db-4071-8b99-201bfb640e3c.png)
+![Screenshot (177)](https://user-images.githubusercontent.com/63710982/148820050-0eaa1165-dffe-4841-8117-8620c662c7ca.png)
 3.Functionality & Concepts used:
 a)Log In : Log in template,change of t
 heme colour
 b)Health profile:Kotlin,Framelayout,
 c) health issue ->supplements your body needs,recommended diet:import drawable,buttons
 d)timetable/task list
+
 
 
 
