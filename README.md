@@ -5,8 +5,8 @@ Living healthy is not an option anymore,it is the need of the hour.Last year wit
 
 
 2.Proposed Solution with screenshots:
-This project proposes a “Health and Wellness Platform” for every age group.The health profile generated will tell your BMI in one click. It will provide the information of supplements your body requires  according to the minor health issues you face and a recommended diet which fits your Indian lifestyle and local culture.Maintain your healthy life with the timetable feature ,where you can set the timer for every activity,which will also remind you daily to drink an extra glass of water.To keep a healthy mind ,we will add a relax section where the user can listen to peaceful music.In case of emergency,the app can help you get the ambulance of the nearest hospital.The project’s scope is to make it interactive for the rural part of india and adding a section specifically for children of age 1-5,pregnant and new mothers.The ultimate goal is to make India Healthy for a Healthy Future.
-
+This project proposes a “Health and Wellness Platform” for every age group.The health profile generated will tell your BMI in one click. It will provide the information of supplements your body requires  according to the minor health issues you face and a recommended diet which fits your Indian lifestyle and local culture.Maintain your healthy life with the timetable feature ,where you can set the timer for every activity.To keep a stress free mind ,we will add a relax section where the user can listen to peaceful music.In case of emergency,the app can help you get the ambulance of the nearest hospital.The project’s scope is to make it interactive for the rural part of india and adding a section specifically for children of age 1-5,pregnant and new mothers.The ultimate goal is to make India Healthy for a Healthy Future.
+![loginactivity](https://user-images.githubusercontent.com/63710982/148808356-3ed57c52-a4b3-4fe8-b5a8-6c90bcc89e61.jpeg)
 
 3.Functionality & Concepts used:
 a)Log In : Log in template,change of theme colour
@@ -17,7 +17,7 @@ d)timetable/task list
 
 
 
-![loginactivity](https://user-images.githubusercontent.com/63710982/148808356-3ed57c52-a4b3-4fe8-b5a8-6c90bcc89e61.jpeg)
+
 
 4.Application Link & Future Scope:
 Github link:
